@@ -21,7 +21,7 @@ Melhorias:
   - Melhor a abstração das classes, por exemplo dos clientes de API's externas ou do Powerpoint Converter;
   - Apenas foram feitos testes de integração para o controller, aplicar também testes unitário à lógica interna e de integração às API's externas.
   
- Como correr o programa:
+Como correr o programa:
   -Aceder à pasta /target dentro da raiz do projeto;
   -Correr o seguinte comando: 
-  java -jar santander-0.0.1-SNAPSHOT.jar
+  - java -jar santander-0.0.1-SNAPSHOT.jar
