@@ -22,5 +22,5 @@ Melhorias:
   - Apenas foram feitos testes de integração para o controller, aplicar também testes unitário à lógica interna e de integração às API's externas;
   
 Como correr o programa:
-  -Dentro da raiz do projeto correr o seguinte comando;
+  - Dentro da raiz do projeto correr o seguinte comando;
   - java -jar santander-0.0.1-SNAPSHOT.jar
