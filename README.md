@@ -19,7 +19,7 @@ Melhorias:
   - Melhorar a perfomance das chamadas externas de API's (não foi possível concatenar vários id's numa chamada), usando Futures e sincronizando o modo do merge dos dados, 
   - ou até mesmo usar reactive programming que levaria a mudanças masi profundas;
   - Melhor a abstração das classes, por exemplo dos clientes de API's externas ou do Powerpoint Converter;
-  - Apenas foram feitos testes de integração para o controller, aplicar também testes unitário à lógica interna e de integração às API's externas.
+  - Apenas foram feitos testes de integração para o controller, aplicar também testes unitário à lógica interna e de integração às API's externas;
   
 Como correr o programa:
   -Dentro da raiz do projeto correr o seguinte comando;
