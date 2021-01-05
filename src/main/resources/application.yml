@@ -1,0 +1,8 @@
+external-api:
+  movie-db:
+    api-key: fb16cef6d33906ea85b38a2445c96cc2
+    person-endpoint: https://api.themoviedb.org/3/search/person?api_key=
+    movie-endpoint : https://api.themoviedb.org/3/movie/{movieId}?api_key=
+  omdb:
+    api-key: 2fad2fea
+    movie-endpoint : http://www.omdbapi.com/?apikey=
